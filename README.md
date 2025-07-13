@@ -11,6 +11,6 @@ Read more: https://spring.io/projects/spring-ai#overview
 
 **Focus**: Seamless integration of AI functionalities into Spring Boot apps.  
 **Real-Time/Enterprise Fit**: Especially suitable if you already use Spring extensively.  
-**Integration Strategy:**
+**Integration Strategy:**  
 Configure LLM clients, data pipelines, or HPC clusters within the Spring context.  
 Expose AI endpoints (REST, WebSocket) protected by Spring Security.  
